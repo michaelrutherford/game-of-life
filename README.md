@@ -1,2 +1,2 @@
 # game-of-life
-A pygame implementation of Conway's Game of Life
+An interactive Python implementation of Conway's Game of Life
